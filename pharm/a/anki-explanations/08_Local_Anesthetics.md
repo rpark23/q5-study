@@ -3,9 +3,10 @@
 ## Mechanism of Action
 
 - Block **voltage-gated Na+ channels** from the **intracellular side**
-- Exception: **Tetrodotoxin** (from puffer fish) blocks from extracellular side
-- Bind to **open channel** state
+- Exception: **Tetrodotoxin (TTX)** (from puffer fish) blocks from **extracellular** side
+- Prefer to block channels in **inactive or open state** (use-dependent/phasic block)
 - 10 human genes for voltage-gated Na+ channels
+- The **ionized form does NOT enter the cell** (weak bases)
 
 ---
 
@@ -21,6 +22,8 @@
 - Local anesthetics are **weak bases** with pKa > 7.4
 - **Less effective in infected tissue** (more acidic environment protonates the anesthetic, reducing membrane crossing)
 - Example: Lidocaine (pKa 7.8) has **faster onset** than bupivacaine (pKa 8.1) at physiologic pH 7.4
+- Can add **sodium bicarbonate** to speed up onset
+- Acidic environments (infection) = slower onset
 
 ---
 
@@ -81,6 +84,9 @@
 | Adjuvant | Mechanism | Effect |
 |----------|-----------|--------|
 | **Epinephrine** | Vasoconstriction | Reduces drug washaway, prolongs duration |
+| **Opioids** | - | Prolongs duration |
+| **Steroids** | - | Prolongs duration |
+| **Clonidine** | Alpha-2 agonist | Prolongs duration |
 
 ---
 
@@ -88,6 +94,19 @@
 
 | Drug | Key Points |
 |------|------------|
-| **Lidocaine** | pKa 7.8, fast onset, amide |
+| **Lidocaine** | pKa 7.8, fast onset, amide; also **Class 1b antiarrhythmic**; can be used IV for pain |
 | **Bupivacaine** | pKa 8.1, slower onset, longer duration |
 | **Prilocaine** | Risk of methemoglobinemia |
+| **Benzocaine/Procaine** | Esters; highest risk of **methemoglobinemia** |
+
+---
+
+## Order of Blockade
+
+With local anesthetics, blockade occurs in this order:
+1. **Sympathetic** (first)
+2. **Pain/Temperature**
+3. **Touch**
+4. **Motor** (last)
+
+*Relates to nerve fiber size (smaller = faster block) and myelination (less myelin = faster)*

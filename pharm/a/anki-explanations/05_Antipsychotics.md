@@ -1,14 +1,24 @@
 # Lecture 05: Antipsychotics
 
-## Schizophrenia
+## Dopamine Hypothesis
+**Excessive dopaminergic activity in the mesolimbic system** causes psychosis
 
-### Dopamine Hypothesis
-**Excessive dopaminergic activity in the mesolimbic system**
+---
 
-### Symptoms of Schizophrenia
+## CNS Dopamine Tracts
 
-| Positive Symptoms | Negative Symptoms |
-|-------------------|-------------------|
+| Tract | Effect of Reduced DA |
+|-------|---------------------|
+| **Tuberoinfundibular** | ↑ Prolactin release |
+| **Nigrostriatal** | Acute EPS, Tardive Dyskinesia, NMS |
+| **Mesolimbic-Mesocortical** | ↓ Positive symptoms; ↑ Negative symptoms |
+
+---
+
+## Symptoms of Schizophrenia
+
+| Positive Symptoms (Additions) | Negative Symptoms (Subtractions) |
+|------------------------------|----------------------------------|
 | Thought disorders | Amotivation |
 | Delusions | Social withdrawal |
 | Hallucinations | Flat affect |
@@ -16,54 +26,127 @@
 
 ---
 
-## Antipsychotic Terminology
+## Antipsychotic Classes
 
-**Archaic terms:**
-- Major tranquilizer
-- Neuroleptic
+### First Generation (Typical) Antipsychotics
+
+| Property | Details |
+|----------|---------|
+| **MOA** | D2 antagonism |
+| **Side effects** | H1, mACh, Alpha-1 (varies by potency) |
+| **EPS risk** | Higher |
+
+#### Potency Spectrum
+
+| Potency | EPS Risk | Off-Target Effects | Example |
+|---------|----------|-------------------|---------|
+| **High potency** | HIGH | LOW | **Haloperidol** |
+| **Low potency** | LOW | HIGH | **Chlorpromazine** |
+
+*Can add anticholinergic drug to balance EPS with high-potency typicals*
 
 ---
 
-## Antipsychotic Classes
+### Second Generation (Atypical) Antipsychotics
 
-### First Generation (Typicals)
-| Property | Detail |
-|----------|--------|
-| **MOA** | Dopamine (D2) antagonists |
-| **Side Effects** | More likely to cause extrapyramidal side effects |
+#### SDAs (Serotonin-Dopamine Antagonists)
+| Property | Details |
+|----------|---------|
+| **MOA** | D2 antagonism + 5-HT2a antagonism |
+| **Examples** | **Risperidone**, **Olanzapine** |
+| **Side effects** | Variable (metabolic syndrome common) |
+| **EPS risk** | Lower |
+| **Other uses** | Mood disorders, depression |
 
-### Second Generation (Atypicals)
-| Property | Detail |
-|----------|--------|
-| **Current Use** | Most common antipsychotics in current use |
-| **Prototype** | **Clozapine** |
-| **Examples** | Clozapine, Olanzapine, Risperidone |
-| **Advantage** | Less likely to cause extrapyramidal side effects |
+#### DRPAs (Dopamine Receptor Partial Agonists)
+| Property | Details |
+|----------|---------|
+| **MOA** | D2 partial agonism + 5-HT2a antagonism |
+| **Example** | **Aripiprazole** |
+| **Advantage** | Less EPS, less metabolic effects |
+
+#### Muscarinic Agonist Antipsychotics
+| Property | Details |
+|----------|---------|
+| **MOA** | M1/M4 agonism |
+| **Drugs** | **Xanomeline + Trospium** |
+| **Note** | Trospium is non-selective muscarinic antagonist that does NOT cross BBB |
+
+---
+
+### Clozapine (Unique)
+
+| Property | Details |
+|----------|---------|
+| **MOA** | D1, D4, multiple 5-HT subtypes, multiple mACh subtypes; **minimal D2 affinity** |
+| **Unique benefit** | **Only drug effective for NEGATIVE symptoms** |
+| **EPS** | **NONE** |
+
+#### Toxicities
+- **Agranulocytosis** (requires monitoring)
+- Severe constipation
+- Sialorrhea (excessive salivation)
+- Seizure risk
 
 ---
 
 ## Extrapyramidal Side Effects (EPS)
 
-Movement disorders caused by D2 blockade:
-- **Akathisia** (restlessness, inability to sit still)
-- **Acute dystonias** (sustained muscle contractions)
-- **Parkinsonism** (tremor, rigidity, bradykinesia)
+Localized to D2 inhibition in **basal ganglia** (nigrostriatal pathway)
+
+### EPS Progression (Time Course)
+
+| Order | Effect | Timing |
+|-------|--------|--------|
+| 1 | **Acute dystonia** | Hours to days |
+| 2 | **Akathisia** | Days to weeks |
+| 3 | **Parkinsonism** | Weeks to months |
+| 4 | **Tardive dyskinesia** | Months to years |
+
+**Mnemonic**: **A**cute dystonia → **A**kathisia → **P**arkinsonism → **T**ardive dyskinesia
 
 ---
 
-## Summary Table
+## Neuroleptic Malignant Syndrome (NMS)
 
-| Generation | Name | MOA | Examples | EPS Risk |
-|------------|------|-----|----------|----------|
-| **1st (Typical)** | Typicals | D2 antagonist | Haloperidol | Higher |
-| **2nd (Atypical)** | Atypicals | D2 + other receptors | Clozapine, Olanzapine, Risperidone | Lower |
+### Mechanism
+- Excess dopamine regulation (too little nigrostriatal pathway activity)
+
+### Clinical Features
+- **Muscle rigidity**
+- **Delirium**
+- **Hyperthermia**
+- Autonomic instability
+
+### Labs
+- **↑ CPK** (rhabdomyolysis)
+- **↑ K+**
+- **↑ Lactic acid**
+
+### Treatment
+- Stop antipsychotic
+- **Dantrolene** (muscle relaxant)
+- Supportive care
 
 ---
 
-## Key Points
+## Summary Table: Antipsychotics
 
-1. **Dopamine hypothesis:** Schizophrenia = excessive DA in mesolimbic system
-2. **Positive symptoms** (additions to normal): hallucinations, delusions, paranoia
-3. **Negative symptoms** (subtractions from normal): flat affect, amotivation, social withdrawal
-4. **Atypicals preferred** due to lower EPS risk
-5. **Clozapine** = prototypical atypical antipsychotic
+| Type | MOA | Examples | EPS | Key Point |
+|------|-----|----------|-----|-----------|
+| **Typical (High Potency)** | D2 antagonist | Haloperidol | High | Low off-target effects |
+| **Typical (Low Potency)** | D2 antagonist | Chlorpromazine | Low | High off-target effects |
+| **Atypical (SDA)** | D2 + 5-HT2a antagonist | Risperidone, Olanzapine | Lower | Metabolic syndrome |
+| **Atypical (DRPA)** | D2 partial agonist | Aripiprazole | Lower | Less metabolic effects |
+| **Clozapine** | D1, D4, 5-HT, mACh | Clozapine | None | Only for negative symptoms; agranulocytosis |
+
+---
+
+## Key High-Yield Points
+
+1. **Antipsychotics primarily reduce POSITIVE symptoms** via D2 antagonism
+2. **Clozapine** is the only drug good for **negative symptoms** and has **no EPS**
+3. **High potency typicals** = high EPS, low off-target
+4. **Low potency typicals** = low EPS, high off-target
+5. **NMS** = rigidity + delirium + hyperthermia + elevated CPK
+6. **EPS order**: Acute dystonia → Akathisia → Parkinsonism → Tardive dyskinesia
