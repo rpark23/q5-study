@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(say:*)",
+      "Bash(afconvert:*)",
+      "Bash(pgrep:*)",
+      "Bash(kill:*)",
+      "Bash(python3 build_quiz_app.py:*)",
+      "Bash(open:*)"
+    ]
+  }
+}
